@@ -84,7 +84,7 @@ h3 {
 
 .footer {
     background-color: var(--darkPrimary);
-    padding: 1rem 0;
+    padding: 1  rem 0;
     margin-top: 1rem;
 }
 
@@ -171,11 +171,11 @@ h3 {
 
 .grafico--camisa {
     grid-row: 2/3;
-    background-image: url(../img/grafico1.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/alejovr09-5be4f.appspot.com/o/grafico1.jpg?alt=media&token=40da354c-e2e3-4f66-95ea-c000693cd115);
 }
 
 .grafico--node {
-    background-image: url(../img/grafico2.jpg);
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/alejovr09-5be4f.appspot.com/o/grafico2.jpg?alt=media&token=04e6c16f-f2db-4cb8-ad48-add1e74326ba);
     grid-row: 8/9;
 }
 
